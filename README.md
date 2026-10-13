@@ -41,3 +41,4 @@ Make sure you have the following libraries installed via the Arduino IDE Library
    const char* pass = "YOUR_WIFI_PASSWORD";      // Your Wi-Fi password
    const char* token = "YOUR_TELEGRAM_BOT_TOKEN";// Get this from Telegram's BotFather
    int64_t userid = YOUR_TELEGRAM_USER_ID;       // Your numeric Telegram user ID
+4. Select your board (AI Thinker ESP32-CAM) in the Arduino IDE, connect your programmer, and flash the code.
